@@ -29,12 +29,38 @@
         "Ramsus-kun": "/proxy/api/mangadex/chapter/4196f734-4a54-41ea-8310-752fbfb8c821"
       }
     },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1717252790",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/431e9eca-02f9-40e3-ab60-2c07e9d59757"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1717252843",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/85e05917-4a11-434a-9c21-c250cbc69b27"
+      }
+    },
     "69": {
       "title": "69",
       "volume": "13",
       "last_updated": "1717252354",
       "groups": {
         "": "https://imgur.com/a/witch-hat-atelier-069-gI6HbKy"
+      }
+    },
+    "5.5": {
+      "title": "5.5",
+      "volume": "1",
+      "last_updated": "1717252886",
+      "groups": {
+        "Ramsus-kun": [
+          "https://mangadex.org/chapter/65af0657-ad87-4e1f-8ee8-6824694a991c"
+        ]
       }
     }
   }
