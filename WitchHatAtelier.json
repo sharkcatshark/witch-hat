@@ -45,12 +45,108 @@
         "Ramsus-kun": "/proxy/api/mangadex/chapter/85e05917-4a11-434a-9c21-c250cbc69b27"
       }
     },
-    "69": {
-      "title": "69",
-      "volume": "13",
-      "last_updated": "1717252354",
+    "6": {
+      "title": "6",
+      "volume": "2",
+      "last_updated": "1717253037",
       "groups": {
-        "": "https://imgur.com/a/witch-hat-atelier-069-gI6HbKy"
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/56d6078f-941d-4ae0-81f7-dc22a11ef4c8"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "2",
+      "last_updated": "1717253052",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/1c038432-ff93-488c-a626-fafc15b6e692"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "2",
+      "last_updated": "1717253073",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/89c57d9b-53c5-4b5f-9bea-e263ef375b9b"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "2",
+      "last_updated": "1717253088",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/5554f870-765c-461e-a0ff-302cf42c6672"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "2",
+      "last_updated": "1717253098",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/91a0584d-eee7-4ae3-9124-318103a38ce1"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "2",
+      "last_updated": "1717253149",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/9b25c043-0087-418b-819f-103c4df2f35a"
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "3",
+      "last_updated": "1717253164",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/a82a6b25-d4fe-4757-8b0f-77d39368cafd"
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "3",
+      "last_updated": "1717253178",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/aef07835-f84a-4864-a5ee-262ea3824a67"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "3",
+      "last_updated": "1717253199",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/2efb282f-5bc7-44db-bf9f-eea9b55cc6a2"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "3",
+      "last_updated": "1717253207",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/d6e9aae6-ca12-4dca-967d-a7534e421a2f"
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "3",
+      "last_updated": "1717253232",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/de81a8d5-d273-498e-a4b2-91253c3e12fe"
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "3",
+      "last_updated": "1717253251",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/a63a70f1-f861-4778-9cd8-2971a7d10985"
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "4",
+      "last_updated": "1717253274",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/1fd84a13-05ab-4b75-9f0f-6b618a679f1b"
       }
     },
     "5.5": {
@@ -58,9 +154,7 @@
       "volume": "1",
       "last_updated": "1717252886",
       "groups": {
-        "Ramsus-kun": [
-          "https://mangadex.org/chapter/65af0657-ad87-4e1f-8ee8-6824694a991c"
-        ]
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/65af0657-ad87-4e1f-8ee8-6824694a991c"
       }
     }
   }
