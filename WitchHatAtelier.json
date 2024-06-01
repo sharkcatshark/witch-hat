@@ -1,0 +1,25 @@
+{
+  "title": "Witch Hat Atelier",
+  "description": "",
+  "artist": "Kamome Shirahama",
+  "author": "Kamome Shirahama",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1717252489",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/5b081971-c18e-476b-9115-4077de728256"
+      }
+    },
+    "69": {
+      "title": "69",
+      "volume": "13",
+      "last_updated": "1717252354",
+      "groups": {
+        "": "https://imgur.com/a/witch-hat-atelier-069-gI6HbKy"
+      }
+    }
+  }
+}
