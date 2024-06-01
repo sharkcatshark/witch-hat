@@ -653,28 +653,28 @@
         "#dropout": "/proxy/api/mangadex/chapter/ecc9c6c5-309e-42d5-a4ee-43811b8f7e39"
       }
     },
-    "42.5": {
-      "title": "42.5",
+    "45.5": {
+      "title": "45.5",
       "volume": "8",
-      "last_updated": "1717254108",
+      "last_updated": "1717255867",
       "groups": {
         "#dropout": "/proxy/api/mangadex/chapter/37c38750-e01c-4fb6-b33d-e51ecdfdc617"
       }
     },
-    "51.5": {
-      "title": "51.5",
+    "62.5": {
+      "title": "62.5",
       "volume": "10",
-      "last_updated": "1717254284",
+      "last_updated": "1717255955",
       "groups": {
         "#dropout": "/proxy/api/mangadex/chapter/e27bef98-fc01-4844-8688-9d4c1138ca78"
       }
     },
-    "67.5": {
-      "title": "67.5",
+    "68.5": {
+      "title": "68.5",
       "volume": "12",
-      "last_updated": "1717254509",
+      "last_updated": "1717256017",
       "groups": {
-        "Project Vinland": "/proxy/api/mangadex/chapter/29f35463-7f28-4e32-bb5c-f9dc118b62f8"
+        "Project Vinland": "/proxy/api/mangadex/chapter/8b3bc527-e472-4579-a1ad-a095b33b3b40"
       }
     }
   }
