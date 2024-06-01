@@ -1,8 +1,8 @@
 {
   "title": "Witch Hat Atelier",
   "description": "",
-  "artist": "Kamome Shirahama",
-  "author": "Kamome Shirahama",
+  "artist": "Shirahama Kamome",
+  "author": "Shirahama Kamome",
   "cover": "",
   "chapters": {
     "1": {
@@ -10,7 +10,23 @@
       "volume": "1",
       "last_updated": "1717252489",
       "groups": {
-        "": "/proxy/api/mangadex/chapter/5b081971-c18e-476b-9115-4077de728256"
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/5b081971-c18e-476b-9115-4077de728256"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1717252631",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/5a4596f7-0926-410a-99ba-b95af1934995"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1717252707",
+      "groups": {
+        "Ramsus-kun": "/proxy/api/mangadex/chapter/4196f734-4a54-41ea-8310-752fbfb8c821"
       }
     },
     "69": {
