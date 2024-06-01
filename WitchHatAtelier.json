@@ -1,9 +1,9 @@
 {
   "title": "Witch Hat Atelier",
-  "description": "",
+  "description": "In a world where everyone takes wonders like magic, spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch…until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem… ",
   "artist": "Shirahama Kamome",
   "author": "Shirahama Kamome",
-  "cover": "",
+  "cover": "https://static.telepedia.net/witchhatatelierwiki/d/db/Volume_1_Cover.png",
   "chapters": {
     "1": {
       "title": "1",
@@ -149,12 +149,108 @@
         "#dropout": "/proxy/api/mangadex/chapter/1fd84a13-05ab-4b75-9f0f-6b618a679f1b"
       }
     },
+    "19": {
+      "title": "19",
+      "volume": "4",
+      "last_updated": "1717253395",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/92538238-6e98-46f0-a376-d40dc0a41e37"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "4",
+      "last_updated": "1717253417",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/d2512207-f151-4f3b-ad6b-036a3f175b29"
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "4",
+      "last_updated": "1717253433",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/e335f9a6-fe6d-4781-b2d7-b58aee675f02"
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "4",
+      "last_updated": "1717253451",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/a6bf243e-cbc2-4935-8335-08b66bd1ccd9"
+      }
+    },
+    "23": {
+      "title": "23",
+      "volume": "4",
+      "last_updated": "1717253475",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/39024bfa-ab12-4f7a-a608-74657550cef9"
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "5",
+      "last_updated": "1717253527",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/4494662b-1b7b-47c1-83dd-9f4925c3364f"
+      }
+    },
+    "25": {
+      "title": "25",
+      "volume": "5",
+      "last_updated": "1717253545",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/8ac6a684-2e11-44fb-9263-d70057768e8f"
+      }
+    },
+    "26": {
+      "title": "26",
+      "volume": "5",
+      "last_updated": "1717253562",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/cdea54e8-dd05-401e-91cf-795a1efc5881"
+      }
+    },
+    "27": {
+      "title": "27",
+      "volume": "5",
+      "last_updated": "1717253576",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/1f40dab0-bcfc-420c-993a-9cd927bc742a"
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "5",
+      "last_updated": "1717253595",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/7eadeb85-8ba4-497f-bb00-8bf5afe77612"
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "5",
+      "last_updated": "1717253604",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/01cd7f3f-16cd-4259-9b78-c82ef6b29205"
+      }
+    },
     "5.5": {
       "title": "5.5",
       "volume": "1",
       "last_updated": "1717252886",
       "groups": {
         "Ramsus-kun": "/proxy/api/mangadex/chapter/65af0657-ad87-4e1f-8ee8-6824694a991c"
+      }
+    },
+    "23.5": {
+      "title": "23.5",
+      "volume": "4",
+      "last_updated": "1717253509",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/ecc9c6c5-309e-42d5-a4ee-43811b8f7e39"
       }
     }
   }
