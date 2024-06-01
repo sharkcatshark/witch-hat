@@ -237,6 +237,326 @@
         "#dropout": "/proxy/api/mangadex/chapter/01cd7f3f-16cd-4259-9b78-c82ef6b29205"
       }
     },
+    "30": {
+      "title": "30",
+      "volume": "6",
+      "last_updated": "1717253739",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/8d668b45-350a-40f1-aab5-53363da07d61"
+      }
+    },
+    "31": {
+      "title": "31",
+      "volume": "6",
+      "last_updated": "1717253753",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/daaaf69b-23de-4517-b552-8d74897a1d0a"
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "6",
+      "last_updated": "1717253787",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/5d2ef6af-ab25-4283-a08a-c5cd8c31816c"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "6",
+      "last_updated": "1717253804",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/2a8a28f6-bff3-4c3e-be22-bd8e0678ab70"
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "6",
+      "last_updated": "1717253818",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/3f0d5900-ad5f-4dfe-9ae4-ab6abe83925d"
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "6",
+      "last_updated": "1717253833",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/1af43aad-0f83-41d0-b944-eee0b734b0b7"
+      }
+    },
+    "36": {
+      "title": "36",
+      "volume": "7",
+      "last_updated": "1717253906",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/444480c7-5b4c-4dca-aa69-24bf00b8c14e"
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "7",
+      "last_updated": "1717253928",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/bda70eae-56d1-47dd-b4b4-24baa7ad4cff"
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "7",
+      "last_updated": "1717253944",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/69730f68-7b68-4f27-8cf9-117c9df9a8ba"
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "7",
+      "last_updated": "1717253958",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/7e7bc5bb-b98d-4349-b850-62aee9e4131e"
+      }
+    },
+    "40": {
+      "title": "40",
+      "volume": "7",
+      "last_updated": "1717253969",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/85f30fc2-e24f-401c-bbfb-0d5f51e7bae6"
+      }
+    },
+    "41": {
+      "title": "41",
+      "volume": "8",
+      "last_updated": "1717254050",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/1018501b-b87a-4d5e-a043-8d412d0b3970"
+      }
+    },
+    "42": {
+      "title": "42",
+      "volume": "8",
+      "last_updated": "1717254071",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/c6633be3-52e3-4a41-8ab8-d1d6572fbb65"
+      }
+    },
+    "43": {
+      "title": "43",
+      "volume": "8",
+      "last_updated": "1717254134",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/f7c5b7a3-5c06-4f86-b1f2-aeee4c16f608"
+      }
+    },
+    "44": {
+      "title": "44",
+      "volume": "8",
+      "last_updated": "1717254148",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/388c2244-4db5-4012-a4b6-586206e02175"
+      }
+    },
+    "45": {
+      "title": "45",
+      "volume": "8",
+      "last_updated": "1717254155",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/ae5e4e90-e54e-4f03-84e8-7461dcb561fc"
+      }
+    },
+    "46": {
+      "title": "46",
+      "volume": "9",
+      "last_updated": "1717254171",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/adc5a4ea-1332-4f54-acee-0d6a919bac47"
+      }
+    },
+    "47": {
+      "title": "47",
+      "volume": "9",
+      "last_updated": "1717254178",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/177fff1b-8726-4ff9-bd43-aa4b5e7efb0d"
+      }
+    },
+    "48": {
+      "title": "48",
+      "volume": "9",
+      "last_updated": "1717254196",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/32f078c6-bd01-4fdc-a51c-ca08f805711e"
+      }
+    },
+    "49": {
+      "title": "49",
+      "volume": "9",
+      "last_updated": "1717254205",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/26bc10b4-5d8c-4f75-b0f3-e5ca85efc8d5"
+      }
+    },
+    "50": {
+      "title": "50",
+      "volume": "9",
+      "last_updated": "1717254218",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/1cecd41e-bdc3-4fef-b64b-0542b9e52546"
+      }
+    },
+    "51": {
+      "title": "51",
+      "volume": "8",
+      "last_updated": "1717254231",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/5e6534ca-8a41-4f89-a22f-fe179852e915"
+      }
+    },
+    "52": {
+      "title": "52",
+      "volume": "10",
+      "last_updated": "1717254241",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/e11475db-88a1-40aa-a839-038a74d1dfd5"
+      }
+    },
+    "53": {
+      "title": "53",
+      "volume": "10",
+      "last_updated": "1717254297",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/8c1ac235-a626-45f9-8e70-bcdccbecf0dc"
+      }
+    },
+    "54": {
+      "title": "54",
+      "volume": "10",
+      "last_updated": "1717254308",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/e87e3df8-5308-4829-a22f-477178756e3a"
+      }
+    },
+    "55": {
+      "title": "55",
+      "volume": "10",
+      "last_updated": "1717254318",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/85408a88-b280-4318-b1a4-b66ef65f9797"
+      }
+    },
+    "56": {
+      "title": "56",
+      "volume": "10",
+      "last_updated": "1717254327",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/31e694eb-a345-4f47-9e3b-ae96d07d2789"
+      }
+    },
+    "57": {
+      "title": "57",
+      "volume": "10",
+      "last_updated": "1717254337",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/c00f2295-d0db-4013-b76d-71f52640f53c"
+      }
+    },
+    "58": {
+      "title": "58",
+      "volume": "11",
+      "last_updated": "1717254353",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/ba995b62-1f78-42a9-ad6b-c74ec508fce7"
+      }
+    },
+    "59": {
+      "title": "59",
+      "volume": "11",
+      "last_updated": "1717254360",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/7eae78e4-509b-414c-ac42-8e7b1948594d"
+      }
+    },
+    "60": {
+      "title": "60",
+      "volume": "11",
+      "last_updated": "1717254373",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/f0094b26-4d21-462e-920d-fcb59bc36451"
+      }
+    },
+    "61": {
+      "title": "61",
+      "volume": "11",
+      "last_updated": "1717254384",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/98e78c6f-69f3-4fdf-bd4c-74e4ba69cafc"
+      }
+    },
+    "62": {
+      "title": "62",
+      "volume": "11",
+      "last_updated": "1717254395",
+      "groups": {
+        "rook-scans": "/proxy/api/mangadex/chapter/e74f633d-0cbd-44c7-b43c-d1bf5737c5e9"
+      }
+    },
+    "63": {
+      "title": "63",
+      "volume": "12",
+      "last_updated": "1717254415",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/87f26841-cb93-43ba-8996-61d3240a9c1c"
+      }
+    },
+    "64": {
+      "title": "64",
+      "volume": "12",
+      "last_updated": "1717254436",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/b86ec1bf-7d9f-4aa1-8b3d-d0844a92b4fd"
+      }
+    },
+    "65": {
+      "title": "65",
+      "volume": "12",
+      "last_updated": "1717254451",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/d63d5090-86bb-463c-897f-de495e4a69ed"
+      }
+    },
+    "66": {
+      "title": "66",
+      "volume": "12",
+      "last_updated": "1717254471",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/6e4cbf95-bdb1-4522-9bf6-445427762936"
+      }
+    },
+    "67": {
+      "title": "67",
+      "volume": "12",
+      "last_updated": "1717254485",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/8b3bc527-e472-4579-a1ad-a095b33b3b40"
+      }
+    },
+    "68": {
+      "title": "68",
+      "volume": "12",
+      "last_updated": "1717254522",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/215c033c-8b65-4262-9689-3e981e7a8d36"
+      }
+    },
+    "69": {
+      "title": "69",
+      "volume": "13",
+      "last_updated": "1717254560",
+      "groups": {
+        "": "https://imgur.com/a/witch-hat-atelier-069-gI6HbKy"
+      }
+    },
     "5.5": {
       "title": "5.5",
       "volume": "1",
@@ -251,6 +571,30 @@
       "last_updated": "1717253509",
       "groups": {
         "#dropout": "/proxy/api/mangadex/chapter/ecc9c6c5-309e-42d5-a4ee-43811b8f7e39"
+      }
+    },
+    "42.5": {
+      "title": "42.5",
+      "volume": "8",
+      "last_updated": "1717254108",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/37c38750-e01c-4fb6-b33d-e51ecdfdc617"
+      }
+    },
+    "51.5": {
+      "title": "51.5",
+      "volume": "10",
+      "last_updated": "1717254284",
+      "groups": {
+        "#dropout": "/proxy/api/mangadex/chapter/e27bef98-fc01-4844-8688-9d4c1138ca78"
+      }
+    },
+    "67.5": {
+      "title": "67.5",
+      "volume": "12",
+      "last_updated": "1717254509",
+      "groups": {
+        "Project Vinland": "/proxy/api/mangadex/chapter/29f35463-7f28-4e32-bb5c-f9dc118b62f8"
       }
     }
   }
