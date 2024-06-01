@@ -1,6 +1,6 @@
 {
   "title": "Witch Hat Atelier",
-  "description": "In a world where everyone takes wonders like magic, spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch…until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem… ",
+  "description": "n a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: She wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch…until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem…\n",
   "artist": "Shirahama Kamome",
   "author": "Shirahama Kamome",
   "cover": "https://static.telepedia.net/witchhatatelierwiki/d/db/Volume_1_Cover.png",
@@ -554,7 +554,87 @@
       "volume": "13",
       "last_updated": "1717254560",
       "groups": {
-        "": "gI6HbKy"
+        "": "/proxy/api/imgur/chapter/gI6HbKy"
+      }
+    },
+    "70": {
+      "title": "70",
+      "volume": "13",
+      "last_updated": "1717255124",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/kIXw1EH"
+      }
+    },
+    "71": {
+      "title": "71",
+      "volume": "13",
+      "last_updated": "1717255181",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Oq4fnus"
+      }
+    },
+    "72": {
+      "title": "72",
+      "volume": "13",
+      "last_updated": "1717255221",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8KWTOKS"
+      }
+    },
+    "73": {
+      "title": "73",
+      "volume": "13",
+      "last_updated": "1717255241",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jiYTfxR"
+      }
+    },
+    "74": {
+      "title": "74",
+      "volume": "13",
+      "last_updated": "1717255260",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QT1KWIj"
+      }
+    },
+    "75": {
+      "title": "75",
+      "volume": "",
+      "last_updated": "1717255288",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jxQZ9Ed"
+      }
+    },
+    "76": {
+      "title": "76",
+      "volume": "",
+      "last_updated": "1717255313",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GqW2Mq4"
+      }
+    },
+    "77": {
+      "title": "77",
+      "volume": "",
+      "last_updated": "1717255336",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nPFqjzD"
+      }
+    },
+    "78": {
+      "title": "78",
+      "volume": "",
+      "last_updated": "1717255357",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MKhiYqE"
+      }
+    },
+    "79": {
+      "title": "79",
+      "volume": "",
+      "last_updated": "1717255384",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/60bsgHx"
       }
     },
     "5.5": {
