@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717305413",
       "groups": {
         "Don't Quit Your Day Job": "/proxy/api/mangadex/chapter/1c4c72ac-94e1-405c-a677-936e892337d1"
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "2",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717305463",
       "groups": {
         "Robot Garden Scans": "/proxy/api/mangadex/chapter/f9839301-7d3f-4086-8da2-4112d7aaf41d"
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "3",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717305477",
       "groups": {
         "Robot Garden Scans": "https://mangadex.org/group/538c8fb3-b475-4d1e-92a7-30f2e30fc97f/robot-garden-scans"
@@ -31,7 +31,7 @@
     },
     "4": {
       "title": "4",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717306193",
       "groups": {
         "Robot Garden Scans": "/proxy/api/mangadex/chapter/005d780f-9001-411e-afab-0136ed8e7f28"
@@ -39,7 +39,7 @@
     },
     "5": {
       "title": "5",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717306202",
       "groups": {
         "Brimhats": "/proxy/api/mangadex/chapter/7f4de475-87cb-4c89-a021-e8db05574927"
@@ -47,7 +47,7 @@
     },
     "6": {
       "title": "6",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717306222",
       "groups": {
         "Brimhats": "/proxy/api/mangadex/chapter/c4b0328d-0014-49c8-971b-fc0413023844"
@@ -55,7 +55,7 @@
     },
     "7": {
       "title": "7",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717306705",
       "groups": {
         "kirbypoyopoyo": [
@@ -71,15 +71,31 @@
     },
     "8": {
       "title": "8",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717306267",
       "groups": {
         "Brimhats": "/proxy/api/mangadex/chapter/fc978110-e635-4c7c-bde4-b4ba02b7070f"
       }
     },
+    "9": {
+      "title": "9",
+      "volume": "1",
+      "last_updated": "1717307390",
+      "groups": {
+        "kirbypoyopoyo": [
+          "https://64.media.tumblr.com/7e0ce19cd34877e29eda743c5ac5d86d/1bd1ff3c9d970a58-a8/s2048x3072/92c413694fe33471abd88520977a8a545f351198.jpg",
+          "https://64.media.tumblr.com/00982bb439443d3462a9f8eb29985db8/1bd1ff3c9d970a58-9f/s2048x3072/8a32ab82b817794838667d0192ee08353d457bba.jpg",
+          "https://64.media.tumblr.com/6f7aa2b4f06d065e04536c8970e33c13/1bd1ff3c9d970a58-d4/s2048x3072/03e8794901433f9f379e51ee656d2429cf0f1479.jpg",
+          "https://64.media.tumblr.com/852e14681a2cd74e3d80f3ca19a5461d/1bd1ff3c9d970a58-a7/s2048x3072/71fa4fa88f453351a8034c5224d3ad3002be580b.jpg",
+          "https://64.media.tumblr.com/47430e9835edffa000601e0a336bfbd8/1bd1ff3c9d970a58-b2/s2048x3072/45f441ccc29668448cdf4dddffe6d514f9b3314e.jpg",
+          "https://64.media.tumblr.com/623d3f0ac598fa17347d4afd267da076/1bd1ff3c9d970a58-79/s2048x3072/6143e27e191c2bd9d56b620867430a27a3cafaf9.jpg",
+          "https://64.media.tumblr.com/b5eff7daf9125726c37842bff6cebc16/1bd1ff3c9d970a58-4f/s2048x3072/1b5891fb3b73fc72c0e6f72c5421d902aff595d3.jpg"
+        ]
+      }
+    },
     "10": {
       "title": "10",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1717306279",
       "groups": {
         "Brimhats": "/proxy/api/mangadex/chapter/f5c12dd6-0437-4f06-a591-9f7469e28ca8"
