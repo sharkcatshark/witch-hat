@@ -1,0 +1,89 @@
+{
+  "title": "Witch Hat Kitchen",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1717305413",
+      "groups": {
+        "Don't Quit Your Day Job": "/proxy/api/mangadex/chapter/1c4c72ac-94e1-405c-a677-936e892337d1"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1717305463",
+      "groups": {
+        "Robot Garden Scans": "/proxy/api/mangadex/chapter/f9839301-7d3f-4086-8da2-4112d7aaf41d"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1717305477",
+      "groups": {
+        "Robot Garden Scans": "https://mangadex.org/group/538c8fb3-b475-4d1e-92a7-30f2e30fc97f/robot-garden-scans"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1717306193",
+      "groups": {
+        "Robot Garden Scans": "/proxy/api/mangadex/chapter/005d780f-9001-411e-afab-0136ed8e7f28"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1717306202",
+      "groups": {
+        "Brimhats": "/proxy/api/mangadex/chapter/7f4de475-87cb-4c89-a021-e8db05574927"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1717306222",
+      "groups": {
+        "Brimhats": "/proxy/api/mangadex/chapter/c4b0328d-0014-49c8-971b-fc0413023844"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1717306705",
+      "groups": {
+        "kirbypoyopoyo": [
+          "https://64.media.tumblr.com/69a815398848006c219d40682134c074/b951ea4744c6b6ad-af/s2048x3072/b114267e07ff8cc7d82e8c65bfb2cc96b3b44cd1.jpg",
+          "https://64.media.tumblr.com/8cea490a49638458c9032bee86195a14/b951ea4744c6b6ad-1d/s2048x3072/8c1b9c6e6ef2e34f34e2713ddcf12409b436ca95.jpg",
+          "https://64.media.tumblr.com/b6112bb4ed3aa806fca62ffc4c544e32/b951ea4744c6b6ad-3b/s2048x3072/9fe90c9baf3522ac737a18a224fcf465ba931649.jpg",
+          "https://64.media.tumblr.com/45a9f2142d3770043ec532dcb82cc1ee/b951ea4744c6b6ad-43/s2048x3072/2257fc81bc78439b92c6a524270d37fadb3986f7.jpg",
+          "https://64.media.tumblr.com/b647714c7e74881e3dc6468f098a9d7b/b951ea4744c6b6ad-2f/s2048x3072/e894a5098b4eee0e24d93fa1f20077e0c9b40e92.jpg",
+          "https://64.media.tumblr.com/10e39ace0028bde5023c579a271312fe/b951ea4744c6b6ad-d7/s2048x3072/08ebf73b12a5d4d75a26c7209f6c6c61bd38c12a.jpg",
+          "https://64.media.tumblr.com/31730fd6fdc0935f7480d41f82e99be7/b951ea4744c6b6ad-7e/s2048x3072/bac17c95c0b18c02a4d3bc6b26780a4604b73a74.jpg"
+        ]
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1717306267",
+      "groups": {
+        "Brimhats": "/proxy/api/mangadex/chapter/fc978110-e635-4c7c-bde4-b4ba02b7070f"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "",
+      "last_updated": "1717306279",
+      "groups": {
+        "Brimhats": "/proxy/api/mangadex/chapter/f5c12dd6-0437-4f06-a591-9f7469e28ca8"
+      }
+    }
+  }
+}
